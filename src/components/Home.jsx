@@ -189,7 +189,7 @@ const Home = () => {
                         <div className='border-l-4 border-blue-500 pl-6 hover:bg-gray-50 dark:hover:bg-gray-800 p-4 rounded-r-lg transition-all duration-300'>
                             <div className='flex flex-col md:flex-row md:items-center md:justify-between mb-3'>
                                 <h3 className='text-xl font-bold text-gray-900 dark:text-white'>Desenvolvedor Full Stack</h3>
-                                <span className='text-sm font-semibold text-blue-600 dark:text-blue-400 bg-blue-100 dark:bg-blue-900 px-3 py-1 rounded-full'>2024 - Presente</span>
+                                <span className='text-sm font-semibold text-blue-600 dark:text-blue-400 bg-blue-100 dark:bg-blue-900 px-3 py-1 rounded-full'>Maio 2025 - Presente</span>
                             </div>
                             <h4 className='text-lg font-semibold text-gray-700 dark:text-gray-300 mb-3'>Imobiliária California</h4>
                             <ul className='text-sm text-gray-600 dark:text-gray-400 space-y-2 leading-relaxed'>
@@ -203,7 +203,7 @@ const Home = () => {
                         <div className='border-l-4 border-green-500 pl-6 hover:bg-gray-50 dark:hover:bg-gray-800 p-4 rounded-r-lg transition-all duration-300'>
                             <div className='flex flex-col md:flex-row md:items-center md:justify-between mb-3'>
                                 <h3 className='text-xl font-bold text-gray-900 dark:text-white'>Desenvolvedor Full Stack</h3>
-                                <span className='text-sm font-semibold text-green-600 dark:text-green-400 bg-green-100 dark:bg-green-900 px-3 py-1 rounded-full'>2023 - 2024</span>
+                                <span className='text-sm font-semibold text-green-600 dark:text-green-400 bg-green-100 dark:bg-green-900 px-3 py-1 rounded-full'>Fev 2025 - Maio 2025</span>
                             </div>
                             <h4 className='text-lg font-semibold text-gray-700 dark:text-gray-300 mb-3'>Way Sistemas</h4>
                             <ul className='text-sm text-gray-600 dark:text-gray-400 space-y-2 leading-relaxed'>
